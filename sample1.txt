@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello
 welcome
+=======
+hello
+>>>>>>> parent of 7b2758e (hey hello world added in sample)
